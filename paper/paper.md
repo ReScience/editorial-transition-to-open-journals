@@ -46,9 +46,9 @@ The four article types are the same we have had before. Most ReScience C papers 
 
 # The reviewing process
 
-- Should be faster
-- Editorial board structure: who does what?
-- The bot
+Our new publishing infrastructure also manages the reviewing process. We hope that it will become more streamlined and faster, because editors can now see at a glance which submissions are in which stage of reviewing. Our editors are also assisted by a bot, which handles mechanical tasks such as recompiling papers upon revisions, watching the review checklists for completion, etc. The bot introduces itself at the beginning of each review, providing instructions for interacting with it.
+
+The reviewing process submission will be overseen by one of our *topic editors*. Their role is to invite reviewers, nudge them towards completing the reviews, provide feedback on the reviews, and answer questions about ReScience C policies and processes that authors or reviewers might have. Topic editors make up the lion's share of our editorial board. We also have *associate editors-in-chief*, roughly one per academic discipline. They assign a topic editors to each new submission, and help them when necessary, in particular with questions concerning ReScience policies and processes. Finally, we have the *editors-in-chief*, who recruit the other members of the editorial board, assist them as necessary, and refuse offers by mega-publishers wishing to take over ReScience C.
 
 # Publication
 
@@ -61,5 +61,5 @@ The four article types are the same we have had before. Most ReScience C papers 
 
 # Acknowledgements
 
-[Juanjo Bazán](https://github.com/xuanxu) developed our new Web site.
+[Juanjo Bazán](https://github.com/xuanxu) developed our new Web site and management platform.
 
