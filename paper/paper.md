@@ -52,14 +52,12 @@ The reviewing process submission will be overseen by one of our *topic editors*.
 
 # Publication
 
-- DOIs: Crossref rather than DataCite
+Whereas we relied on [Zenodo](https://zenodo.org/) before for hosting the PDF files for published articles, we now publish articles on our own site. The main advantage is that article get Crossref-DOIs rather than Zenodo's DataCite-DOIs. Both types of DOIs work the same way when passed to a DOI resolver, such as http://doi.org/, but they are treated differently by databases and reference managers. The available metadata is in fact not the same, because Crossref issues DOIs for articles whereas DataCite issues DOIs for datasets.
 
 # Migration from the old publishing system
 
-- Existing submissions will continue to be handled the old way.
-- Question: Do we import the old articles into the new platform?
+Changing platforms always raises migration issues. Our plan is to use the new platform for new submissions, but continue ongoing reviewing processes on the old platform. We are investigating the possibility of importing all articles published in the past into the new platform, with new DOIs, but we don't know yet if that will be feasible. In any case, the old Zenodo-DOIs will always remain valid; nothing is going to disappear from Zenodo.
 
 # Acknowledgements
 
 [Juanjo Bazán](https://github.com/xuanxu) developed our new Web site and management platform.
-
